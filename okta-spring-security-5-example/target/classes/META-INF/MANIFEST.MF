@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vikashsi
+Build-Jdk: 17.0.2
+Implementation-Title: oidc
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.okta.developer
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-st
+ arter-parent/oidc/
+Created-By: Maven Integration for Eclipse
+
